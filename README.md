@@ -1,5 +1,11 @@
-# Stress Testing Script for Competitive Programming Solutions (Windows)
+# Stress Testing Script for Competitive Programming Solutions
 A script to identify test cases where a code produces incorrect results by comparing its output against a known correct solution.
+
+## OS-Specific Configuration
+ If you're on windows, you can use all the files without any modifications
+
+ If you are on Linux or Mac, replace the stress.bat file with a stress.sh file  [contents of stress.sh file](https://pastebin.com/BskyhA4K).
+
 
 ## Deployment
 
